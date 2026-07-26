@@ -1156,6 +1156,7 @@ static bool32 ShouldSkipFailureCheckOnBattler(enum BattlerId battlerAtk, enum Ba
     return FALSE;
 }
 
+// Insert failure here when it doesn't depend on the target
 static enum CancelerResult CancelerMoveFailure(struct BattleCalcValues *cv)
 {
     const u8 *battleScript = NULL;
@@ -1333,6 +1334,7 @@ static enum CancelerResult CancelerMoveFailure(struct BattleCalcValues *cv)
     return CANCELER_RESULT_SUCCESS;
 }
 
+// Insert failure here when it doesn't depend on the target
 static enum CancelerResult CancelerMoveEffectFailureTarget(struct BattleCalcValues *cv)
 {
     const u8 *battleScript = NULL;
