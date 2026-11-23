@@ -30,4 +30,4 @@ Based off RHH's pokeemerald-expansion 1.16.4 https://github.com/rh-hideout/pokee
 
 [![](https://dcbadge.limes.pink/api/server/fBB8824pKx)](https://discord.gg/fBB8824pKx)
 
-Our community uses the [D3N's Closet](https://discord.gg/fBB8824pKx) to communicate and organize. Most of our discussions take place there, and we welcome anybody to join us!
+Our community uses the [The D3N Group](https://discord.gg/fBB8824pKx) to communicate and organize. Most of our discussions take place there, and we welcome anybody to join us!
